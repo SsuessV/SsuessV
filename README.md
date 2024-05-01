@@ -9,6 +9,6 @@
   <img src="https://github.com/SsuessV/SsuessV/assets/127782189/2fa573bf-af7b-4586-b5e4-7a12f5fb7964" width="100" height="100">
 </a>
 
-<a href="https://profile.intra.42.fr/users/syoun">
+<a href="https://github.com/SsuessV?tab=repositories">
   <img src="https://github.com/SsuessV/SsuessV/assets/127782189/17405970-911e-4e1b-bea8-fbd352db2fb9" width="400" height="100" align="right">
 </a>
