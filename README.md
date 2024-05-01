@@ -2,7 +2,7 @@
 
             I’m currently learning C language at 42Vienna 🌱 and I'm a master's student in International Business 👩‍🎓
                                 
-                            ⚡ Fun fact about me : I’m interested in weight lifting 🏋️‍♀️ and coding 👩‍💻
+                            ⚡ Fun fact about me : I’m LOVE weight lifting 🏋️‍♀️ and coding 👩‍💻
 
 
 <a href="https://profile.intra.42.fr/users/syoun">
