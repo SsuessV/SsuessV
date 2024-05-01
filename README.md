@@ -1,4 +1,4 @@
-                                    👋 Hello, my name is Su Jung. But, you can call me Sue
+                                    👋 Hello, my name is Su Jung. You can call me Sue
 
             I’m currently learning C language at 42Vienna 🌱 and I'm a master's student in International Business 👩‍🎓
                                 
